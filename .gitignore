@@ -1,0 +1,6 @@
+.DS_Store
+
+.env
+data-dir/*
+!data-dir/config.ini
+!data-dir/genesis.json
