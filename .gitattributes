@@ -1,0 +1,2 @@
+eos/libs/* filter=lfs diff=lfs merge=lfs -text
+eos/*.zip filter=lfs diff=lfs merge=lfs -text
