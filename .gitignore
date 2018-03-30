@@ -4,3 +4,5 @@
 data-dir/*
 !data-dir/config.ini
 !data-dir/genesis.json
+eos/libs/*
+eos/*.zip
